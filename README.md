@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate software developer working primar
 - **IDEs:** RubyMine, VS Code
 
 ## 📫 Connect With Me
-- GitHub: [github.com/yourusername](https://github.com/zain-del11)
+- GitHub: [github.com/zain-dev11](https://github.com/zain-dev11)
 - Email: zain@asistechlabs.com
 
 🚀 Let's build something amazing together! Feel free to explore my repos, contribute, or reach out for collaboration. Happy coding! 😊
